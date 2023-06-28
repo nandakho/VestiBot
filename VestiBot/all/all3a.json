@@ -1,0 +1,18 @@
+,{
+  "type": "box",
+  "layout": "horizontal",
+  "contents": [
+    {
+      "type": "button",
+      "action": {
+        "type": "message",
+        "label": "Next",
+        "text": "!list all 2"
+      }
+    }
+  ]
+}
+]
+}
+}
+}

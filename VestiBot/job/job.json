@@ -1,0 +1,41 @@
+{
+    "type": "flex",
+    "altText": "List Job",
+    "contents": {
+      "type": "bubble",
+      "size": "giga",
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "Job: Ranger 1-8 of 8",
+            "align": "center",
+            "weight": "bold"
+          },
+          {
+            "type": "separator",
+            "color": "#000000"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "Nick",
+                "align": "center",
+                "weight": "bold"
+              },
+              {
+                "type": "text",
+                "text": "Line",
+                "align": "center",
+                "weight": "bold"
+              }
+            ]
+          },{"type":"box","layout":"horizontal","spacing":"sm","contents":[{"type":"text","text":"Arduino","size":"xxs","flex":1,"align":"center"},{"type":"text","text":"Naufal","size":"xxs","flex":1,"align":"center"}]},{"type":"box","layout":"horizontal","spacing":"sm","contents":[{"type":"text","text":"EyeSky","size":"xxs","flex":1,"align":"center"},{"type":"text","text":"Dede","size":"xxs","flex":1,"align":"center"}]},{"type":"box","layout":"horizontal","spacing":"sm","contents":[{"type":"text","text":"Farewell","size":"xxs","flex":1,"align":"center"},{"type":"text","text":"Herman.H","size":"xxs","flex":1,"align":"center"}]},{"type":"box","layout":"horizontal","spacing":"sm","contents":[{"type":"text","text":"Heyberd","size":"xxs","flex":1,"align":"center"},{"type":"text","text":"Randy","size":"xxs","flex":1,"align":"center"}]},{"type":"box","layout":"horizontal","spacing":"sm","contents":[{"type":"text","text":"Lostvayn","size":"xxs","flex":1,"align":"center"},{"type":"text","text":"Robby","size":"xxs","flex":1,"align":"center"}]},{"type":"box","layout":"horizontal","spacing":"sm","contents":[{"type":"text","text":"Penembak","size":"xxs","flex":1,"align":"center"},{"type":"text","text":"Dicky","size":"xxs","flex":1,"align":"center"}]},{"type":"box","layout":"horizontal","spacing":"sm","contents":[{"type":"text","text":"TaylorSweetz","size":"xxs","flex":1,"align":"center"},{"type":"text","text":"","size":"xxs","flex":1,"align":"center"}]},{"type":"box","layout":"horizontal","spacing":"sm","contents":[{"type":"text","text":"Vonda","size":"xxs","flex":1,"align":"center"},{"type":"text","text":"Randy.S","size":"xxs","flex":1,"align":"center"}]}        ]
+    }
+  }
+}

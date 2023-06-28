@@ -1,0 +1,82 @@
+{
+    "type": "flex",
+    "altText": "Price Check",
+    "contents": {
+      "type": "bubble",
+      "size": "giga",
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "Name:",
+                "weight": "bold"
+              },
+              {
+                "type": "text",
+                "text": "Eye Of Dullahan"
+              }
+            ]
+        },
+        {
+          "type": "box",
+          "layout": "horizontal",
+          "contents": [
+            {
+              "type": "text",
+              "text": "Price:",
+              "weight": "bold"
+            },
+            {
+                "type": "text",
+                "text": "1,674,804 zeny"
+              }
+          ]
+        },
+        {
+          "type": "box",
+          "layout": "horizontal",
+          "contents": [
+            {
+              "type": "text",
+              "text": "Ammount:",
+              "weight": "bold"
+            },
+            {
+                "type": "text",
+                "text": "-2"
+              }
+          ]
+        },
+        {
+          "type": "box",
+          "layout": "horizontal",
+          "contents": [
+            {
+              "type": "text",
+              "text": "Snapping:",
+              "weight": "bold"
+            },
+            {
+                "type": "text",
+                "text": "No"
+              }
+          ]
+        },
+        {
+          "type": "separator",
+          "color": "#000000"
+        },
+        {
+          "type": "text",
+          "text": "Powered by poporing.life"
+        }
+      ]
+    }
+  }
+}

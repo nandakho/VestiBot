@@ -1,0 +1,18 @@
+",
+            "align": "center",
+            "weight": "bold"
+          },
+          {
+            "type": "separator",
+            "color": "#000000"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "button",
+                "action": {
+                  "type": "message",
+                  "label": "Price",
+                  "text": "!price 

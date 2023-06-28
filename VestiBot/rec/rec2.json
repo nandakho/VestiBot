@@ -1,0 +1,20 @@
+ ",
+            "align": "center",
+            "weight": "bold"
+          },
+          {
+            "type": "separator",
+            "color": "#000000"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "Name",
+                "weight": "bold"
+              },
+              {
+                "type": "text",
+                "text": "

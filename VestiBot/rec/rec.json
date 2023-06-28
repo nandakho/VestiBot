@@ -1,0 +1,198 @@
+{
+    "type": "flex",
+    "altText": "Recruitment",
+    "contents": {
+      "type": "bubble",
+      "size": "giga",
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "Recruitment 1 of 1 ",
+            "align": "center",
+            "weight": "bold"
+          },
+          {
+            "type": "separator",
+            "color": "#000000"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "Name",
+                "weight": "bold"
+              },
+              {
+                "type": "text",
+                "text": "Stephennor"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "Gender",
+                "weight": "bold"
+              },
+              {
+                "type": "text",
+                "text": "1"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "LINE",
+                "weight": "bold"
+              },
+              {
+                "type": "text",
+                "text": "-"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "Discord",
+                "weight": "bold"
+              },
+              {
+                "type": "text",
+                "text": "-"
+              }
+            ]
+          },
+          {
+            "type": "separator",
+            "color": "#000000"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "Nick",
+                "weight": "bold"
+              },
+              {
+                "type": "text",
+                "text": "Stephennor"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "Job",
+                "weight": "bold"
+              },
+              {
+                "type": "text",
+                "text": "Guillotine Cross"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "Contri",
+                "weight": "bold"
+              },
+              {
+                "type": "text",
+                "text": "0"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "Gold Medal",
+                "weight": "bold"
+              },
+              {
+                "type": "text",
+                "text": "0"
+              }
+            ]
+          },
+          {
+            "type": "separator",
+            "color": "#000000"
+          },
+          {
+            "type": "text",
+            "text": "Additional Message",
+            "align": "center",
+            "weight": "bold"
+          },
+          {
+            "type": "text",
+            "text": "hi there   I have just checked %domain% for the ranking keywords and to see your SEO metrics and found that you website could use a boost.      We will improve your SEO metrics and ranks organically and safely, using only whitehat methods      Please check our pricelist here, we offer SEO at cheap rates.   https://www.hilkom-digital.de/cheap-seo-packages/      Start boosting your business sales and leads with us, today!      regards   Hilkom Digital Team   support@hilkom-digital.de",
+            "align": "center",
+            "weight": "regular"
+          },
+          {
+            "type": "separator",
+            "color": "#000000"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "button",
+                "action": {
+                  "type": "message",
+                  "label": "Accept",
+                  "text": "!acc Stephennor"
+                }
+              },
+              {
+                "type": "button",
+                "action": {
+                  "type": "message",
+                  "label": "Reject",
+                  "text": "!rej Stephennor"
+                }
+              },
+              {
+                "type": "button",
+                "action": {
+                  "type": "message",
+                  "label": "Skip",
+                  "text": "!rec 1"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }

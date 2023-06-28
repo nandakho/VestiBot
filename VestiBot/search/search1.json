@@ -1,0 +1,13 @@
+{
+    "type": "flex",
+    "altText": "Item Search",
+    "contents": {
+      "type": "bubble",
+      "size": "giga",
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "Item found: 

@@ -1,0 +1,61 @@
+{
+    "type": "flex",
+    "altText": "List Anggota",
+    "contents": {
+      "type": "bubble",
+      "size": "giga",
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "Showing 1-10 of 81:",
+            "align": "center",
+            "weight": "bold"
+          },
+          {
+            "type": "separator",
+            "color": "#000000"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "Nick",
+                "align": "center",
+                "weight": "bold"
+              },
+              {
+                "type": "text",
+                "text": "Job",
+                "align": "center",
+                "weight": "bold"
+              },
+              {
+                "type": "text",
+                "text": "Line",
+                "align": "center",
+                "weight": "bold"
+              }
+            ]
+          },{"type":"box","layout":"horizontal","spacing":"sm","contents":[{"type":"text","text":"^dom^","size":"xxs","flex":1,"align":"center"},{"type":"text","text":"Royal Guard","size":"xxs","flex":1,"align":"center"},{"type":"text","text":"Ig.Dominico","size":"xxs","flex":1,"align":"center"}]},{"type":"box","layout":"horizontal","spacing":"sm","contents":[{"type":"text","text":"2tenpol","size":"xxs","flex":1,"align":"center"},{"type":"text","text":"Mechanic","size":"xxs","flex":1,"align":"center"},{"type":"text","text":"2tenpol","size":"xxs","flex":1,"align":"center"}]},{"type":"box","layout":"horizontal","spacing":"sm","contents":[{"type":"text","text":"Afterlifeend","size":"xxs","flex":1,"align":"center"},{"type":"text","text":"Arch Bishop","size":"xxs","flex":1,"align":"center"},{"type":"text","text":"Aldo","size":"xxs","flex":1,"align":"center"}]},{"type":"box","layout":"horizontal","spacing":"sm","contents":[{"type":"text","text":"Aimer","size":"xxs","flex":1,"align":"center"},{"type":"text","text":"Royal Guard","size":"xxs","flex":1,"align":"center"},{"type":"text","text":"Winnie","size":"xxs","flex":1,"align":"center"}]},{"type":"box","layout":"horizontal","spacing":"sm","contents":[{"type":"text","text":"Akblue","size":"xxs","flex":1,"align":"center"},{"type":"text","text":"Shadow Chaser","size":"xxs","flex":1,"align":"center"},{"type":"text","text":"Akbar","size":"xxs","flex":1,"align":"center"}]},{"type":"box","layout":"horizontal","spacing":"sm","contents":[{"type":"text","text":"Albedo","size":"xxs","flex":1,"align":"center"},{"type":"text","text":"Sorcerer","size":"xxs","flex":1,"align":"center"},{"type":"text","text":"phay","size":"xxs","flex":1,"align":"center"}]},{"type":"box","layout":"horizontal","spacing":"sm","contents":[{"type":"text","text":"Aleischa","size":"xxs","flex":1,"align":"center"},{"type":"text","text":"Sorcerer","size":"xxs","flex":1,"align":"center"},{"type":"text","text":"Freyja","size":"xxs","flex":1,"align":"center"}]},{"type":"box","layout":"horizontal","spacing":"sm","contents":[{"type":"text","text":"Annica","size":"xxs","flex":1,"align":"center"},{"type":"text","text":"Arch Bishop","size":"xxs","flex":1,"align":"center"},{"type":"text","text":"Puspa","size":"xxs","flex":1,"align":"center"}]},{"type":"box","layout":"horizontal","spacing":"sm","contents":[{"type":"text","text":"ArchkA","size":"xxs","flex":1,"align":"center"},{"type":"text","text":"Mechanic","size":"xxs","flex":1,"align":"center"},{"type":"text","text":"Ronay","size":"xxs","flex":1,"align":"center"}]},{"type":"box","layout":"horizontal","spacing":"sm","contents":[{"type":"text","text":"Arduino","size":"xxs","flex":1,"align":"center"},{"type":"text","text":"Ranger","size":"xxs","flex":1,"align":"center"},{"type":"text","text":"Naufal","size":"xxs","flex":1,"align":"center"}]},{
+  "type": "box",
+  "layout": "horizontal",
+  "contents": [
+    {
+      "type": "button",
+      "action": {
+        "type": "message",
+        "label": "Next",
+        "text": "!list all 2"
+      }
+    }
+  ]
+}
+]
+}
+}
+}

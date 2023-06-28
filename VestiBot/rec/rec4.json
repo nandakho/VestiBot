@@ -1,0 +1,16 @@
+"
+              }
+            ]
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "LINE",
+                "weight": "bold"
+              },
+              {
+                "type": "text",
+                "text": "

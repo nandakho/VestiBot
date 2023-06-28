@@ -1,0 +1,22 @@
+{
+    "type": "flex",
+    "altText": "Price Check",
+    "contents": {
+      "type": "bubble",
+      "size": "giga",
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "Name:",
+                "weight": "bold"
+              },
+              {
+                "type": "text",
+                "text": "

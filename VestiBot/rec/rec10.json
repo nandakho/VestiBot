@@ -1,0 +1,17 @@
+"
+              }
+            ]
+          },
+          {
+            "type": "separator",
+            "color": "#000000"
+          },
+          {
+            "type": "text",
+            "text": "Additional Message",
+            "align": "center",
+            "weight": "bold"
+          },
+          {
+            "type": "text",
+            "text": "

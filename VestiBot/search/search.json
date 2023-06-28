@@ -1,0 +1,56 @@
+{
+    "type": "flex",
+    "altText": "Item Search",
+    "contents": {
+      "type": "bubble",
+      "size": "giga",
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "Item found: eye of dul",
+            "align": "start",
+            "weight": "bold"
+          },
+          {
+            "type": "separator",
+            "color": "#000000"
+          },
+          {
+            "type": "text",
+            "text": "Eye of Dullahan",
+            "align": "center",
+            "weight": "bold"
+          },
+          {
+            "type": "separator",
+            "color": "#000000"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "button",
+                "action": {
+                  "type": "message",
+                  "label": "Price",
+                  "text": "!price eye of dullahan"
+                }
+              },
+              {
+                "type": "button",
+                "action": {
+                  "type": "message",
+                  "label": "History",
+                  "text": "!history eye of dullahan"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }

@@ -1,0 +1,13 @@
+{
+    "type": "flex",
+    "altText": "List Job",
+    "contents": {
+      "type": "bubble",
+      "size": "giga",
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "Job: 
